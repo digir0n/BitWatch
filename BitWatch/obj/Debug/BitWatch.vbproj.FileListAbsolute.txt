@@ -1,0 +1,15 @@
+C:\Users\ronald\documents\visual studio 2017\Projects\BitWatch\BitWatch\bin\Debug\BitWatch.exe.config
+C:\Users\ronald\documents\visual studio 2017\Projects\BitWatch\BitWatch\bin\Debug\BitWatch.exe
+C:\Users\ronald\documents\visual studio 2017\Projects\BitWatch\BitWatch\bin\Debug\BitWatch.pdb
+C:\Users\ronald\documents\visual studio 2017\Projects\BitWatch\BitWatch\bin\Debug\BitWatch.xml
+C:\Users\ronald\documents\visual studio 2017\Projects\BitWatch\BitWatch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ronald\documents\visual studio 2017\Projects\BitWatch\BitWatch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ronald\documents\visual studio 2017\Projects\BitWatch\BitWatch\obj\Debug\BitWatch.vbprojAssemblyReference.cache
+C:\Users\ronald\documents\visual studio 2017\Projects\BitWatch\BitWatch\obj\Debug\BitWatch.Form1.resources
+C:\Users\ronald\documents\visual studio 2017\Projects\BitWatch\BitWatch\obj\Debug\BitWatch.Resources.resources
+C:\Users\ronald\documents\visual studio 2017\Projects\BitWatch\BitWatch\obj\Debug\BitWatch.vbproj.GenerateResource.cache
+C:\Users\ronald\documents\visual studio 2017\Projects\BitWatch\BitWatch\obj\Debug\BitWatch.vbproj.CoreCompileInputs.cache
+C:\Users\ronald\documents\visual studio 2017\Projects\BitWatch\BitWatch\obj\Debug\BitWatch.vbproj.CopyComplete
+C:\Users\ronald\documents\visual studio 2017\Projects\BitWatch\BitWatch\obj\Debug\BitWatch.exe
+C:\Users\ronald\documents\visual studio 2017\Projects\BitWatch\BitWatch\obj\Debug\BitWatch.xml
+C:\Users\ronald\documents\visual studio 2017\Projects\BitWatch\BitWatch\obj\Debug\BitWatch.pdb

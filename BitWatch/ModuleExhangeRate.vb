@@ -1,0 +1,3 @@
+﻿Module ModuleExhangeRate
+
+End Module
